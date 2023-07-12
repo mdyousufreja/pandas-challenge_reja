@@ -27,3 +27,12 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 Downloaded the following files to get started:
 
 Module 4 Challenge [files](https://courses.bootcampspot.com/courses/3819/assignments/56672?module_item_id=999456)
+
+
+**Instructions**
+
+
+Using Pandas and Jupyter Notebook, created a report that includes the following data. 
+**Hint**: Check out the sample solution called PyCitySchools_starter.ipynb located in the .zip file to review the desired format for this assignment.
+
+
