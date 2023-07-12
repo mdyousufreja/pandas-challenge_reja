@@ -85,13 +85,13 @@ Include the following:
 
 **Highest-Performing Schools (by % Overall Passing)**
 
-Sorted the schools by % Overall Passing in descending order and display the top 5 rows.
+Sorted the schools by **% Overall Passing** in descending order and display the top 5 rows.
 
 Saved the results in a DataFrame called "top_schools".
 
 **Lowest-Performing Schools (by % Overall Passing)**
 
-Sorted the schools by % Overall Passing in ascending order and display the top 5 rows.
+Sorted the schools by **% Overall Passing** in ascending order and display the top 5 rows.
 
 Saved the results in a DataFrame called "bottom_schools".
 
@@ -108,6 +108,28 @@ Created a DataFrame that lists the average reading score for students of each gr
 Created a table that breaks down school performance based on average spending ranges (per student).
 
 Used the code provided below to create four bins with reasonable cutoff values to group school spending.
+
+Used pd.cut to categorize spending based on the bins.
+
+Use the following code to then calculate mean scores per spending range.
+
+Used the scores above to create a DataFrame called **spending_summary**.
+
+Included the following metrics in the table:
+
+- Average math score
+
+- Average reading score
+
+- % passing math (the percentage of students who passed math)
+
+- % passing reading (the percentage of students who passed reading)
+
+- % overall passing (the percentage of students who passed math AND reading)
+
+**Scores by School Size**
+
+Used the following code to bin the **per_school_summary**.
 
 
 
